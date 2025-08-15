@@ -1,4 +1,4 @@
-# NGVO - Next Generation Visual Overhaul
+# Tales OF The Hist
 
 ![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1724967916-1263394473.png)
 
